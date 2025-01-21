@@ -1,0 +1,11 @@
+# Ignore the local Conda environment folder
+rag-app/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+env/
+venv/
